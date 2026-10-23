@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="55" y1="425" x2="625" y2="55" stroke="#aaa" stroke-dasharray="5,5"/>
+<line x1="55" y1="55" x2="55" y2="425" stroke="black"/>
+<line x1="55" y1="425" x2="625" y2="425" stroke="black"/>
+<polyline points="65.5,365.2 138.4,250.8 194.9,212.1 254.3,169.4 312.2,138.5 368.8,105.9 427.8,84.0 482.8,86.4 540.2,70.4 607.7,61.2" fill="none" stroke="#1769aa" stroke-width="3"/>
+<polyline points="76.1,399.8 138.6,329.7 196.9,269.5 253.6,223.6 310.3,182.9 367.9,135.1 425.6,89.2 483.1,84.2 541.0,70.1 596.0,61.6" fill="none" stroke="#e87500" stroke-width="3"/>
+<text x="55.0" y="447" text-anchor="middle" font-size="12">0.0</text>
+<text x="45" y="429.0" text-anchor="end" font-size="12">0.0</text>
+<text x="169.0" y="447" text-anchor="middle" font-size="12">0.2</text>
+<text x="45" y="355.0" text-anchor="end" font-size="12">0.2</text>
+<text x="283.0" y="447" text-anchor="middle" font-size="12">0.4</text>
+<text x="45" y="281.0" text-anchor="end" font-size="12">0.4</text>
+<text x="397.0" y="447" text-anchor="middle" font-size="12">0.6</text>
+<text x="45" y="207.0" text-anchor="end" font-size="12">0.6</text>
+<text x="511.0" y="447" text-anchor="middle" font-size="12">0.8</text>
+<text x="45" y="133.0" text-anchor="end" font-size="12">0.8</text>
+<text x="625.0" y="447" text-anchor="middle" font-size="12">1.0</text>
+<text x="45" y="59.0" text-anchor="end" font-size="12">1.0</text>
+<text x="340.0" y="470" text-anchor="middle">Mean predicted win probability</text>
+<text x="18" y="240.0" text-anchor="middle" transform="rotate(-90 18 240.0)">Observed win rate</text>
+<text x="390" y="35" fill="#1769aa">Smoothed DP</text>
+<text x="500" y="35" fill="#e87500">Logistic</text>
+</svg>
